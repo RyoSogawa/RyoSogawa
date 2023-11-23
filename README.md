@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## about me
+https://bento.me/ryo-sogawa
 
 ## npm packages
 https://www.npmjs.com/~ryo-sogawa
-
-
 
 ## stats
 
